@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Salut, je suis Nana Chen !<br><br>À propos de moi :<br> Étudiante en Bachelor Data & IA à HETIC (2024-2027)<br> <br>🛠️ Ma stack technique :<br>Data Science: Python • Pandas • NumPy • Scikit-learn • MySQL • MongoDB<br>Visualisation: Matplotlib • Seaborn • PowerBI • Tableau<br>Dev: HTML/CSS • JavaScript/React • Git/Docker • VS Code<br>Design: Figma • Adobe Creative • UI/UX • WordPress<br><br>Ma transition du design vers la data me permet de comprendre l'utilisateur par les données plutôt que seulement par l'interface !
+# 💫 About Nana<br>
+Étudiante en Bachelor Data & IA à HETIC (2024-2027)<br> <br>🛠️ Ma stack technique :<br>Data Science: Python • Pandas • NumPy • Scikit-learn • MySQL • MongoDB<br>Visualisation: Matplotlib • Seaborn • PowerBI • Tableau<br>Dev: HTML/CSS • JavaScript/React • Git/Docker • VS Code<br>Design: Figma • Adobe Creative • UI/UX • WordPress<br><br>Ma transition du design vers la data me permet de comprendre l'utilisateur par les données plutôt que seulement par l'interface !
 
 
 ## 🌐 Socials:
